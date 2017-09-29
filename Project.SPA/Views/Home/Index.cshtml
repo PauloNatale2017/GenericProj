@@ -1,0 +1,101 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<script type="text/javascript">
+
+    function ShowModal()
+    {
+        $('#myModal').modal('show');
+    }
+
+    function confirmacao()
+    {
+        try
+        {
+            debugger;
+            var condicional = document.getElementById("btnYes");
+            document.getElementById("error").innerHTML = "";
+
+            if (condicional.value == 'true')
+            {
+               $('#myModal2').modal('show');
+               //document.getElementById("error").innerHTML = "Item excluido...";
+               //$('#myModal2').modal('show').delay(6000).modal('hide');
+            }
+        }
+        catch(error)
+        {
+            document.getElementById("error").innerHTML = "Input is " + err;
+        }
+              
+    }
+</script>
+
+
+<div class="jumbotron">
+
+   
+    <button type="button"  class="btn btn-info btn-lg" onclick="ShowModal()">EXCLUIR</button>
+    @*<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">EXCLUIR</button>*@
+    <div id="myModal" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-sm">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">EXCLUSÃO DE DADOS</h4>
+                </div>
+                <div class="modal-body">
+                    <h4>TEM CERTEZA QUE DESEJA EXCLUIR ESSA INFORMAÇÃO.</h4>
+                    <button id="btnYes" type="button" class="btn btn-default" data-dismiss="modal" onclick="confirmacao();" value="true">SIM</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal" value="false">NÃO</button>
+                </div>
+                <div class="modal-footer">
+                       <a id="error"></a>
+                    @*<a class="btn-group" href=# onclick="return confirmacao();">CONFIRMA</a>*@
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div id="myModal2" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-sm">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">EXCLUSÃO EFETUADA COM SUCESSO...</h4>
+                </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>
+            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+            enables a clean separation of concerns and gives you full control over markup
+            for enjoyable, agile development.
+        </p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Get more libraries</h2>
+        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Web Hosting</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+</div>

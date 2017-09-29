@@ -1,0 +1,111 @@
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\ApplicationInsights.config
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\csc.exe
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\System.Collections.Immutable.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\vbc.exe
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\VBCSCompiler.exe
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\roslyn\VBCSCompiler.exe.config
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Project.SPA.dll.config
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Project.SPA.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Project.SPA.pdb
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Antlr3.Runtime.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.AI.Web.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.AI.WindowsServer.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.ApplicationInsights.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.Web.Infrastructure.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Newtonsoft.Json.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.Helpers.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.Mvc.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.Optimization.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.Razor.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.WebPages.Deployment.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.WebPages.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.WebPages.Razor.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\WebGrease.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.AI.Web.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.AI.WindowsServer.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.ApplicationInsights.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.Helpers.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.Mvc.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.Optimization.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.Razor.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.WebPages.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.WebPages.Deployment.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\System.Web.WebPages.Razor.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Antlr3.Runtime.pdb
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\bin\Newtonsoft.Json.xml
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\obj\Debug\Project.SPA.csprojResolveAssemblyReference.cache
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\obj\Debug\Project.SPA.dll
+c:\users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.SPA\obj\Debug\Project.SPA.pdb
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\ApplicationInsights.config
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\csc.exe
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\vbc.exe
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\VBCSCompiler.exe
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Project.SPA.dll.config
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Project.SPA.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Project.SPA.pdb
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Antlr3.Runtime.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Iesi.Collections.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.AI.Web.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Newtonsoft.Json.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\NHibernate.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\NHibernate.SessionFactory.Helpers.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.Helpers.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.Mvc.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.Optimization.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.Razor.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.WebPages.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.WebPages.Razor.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\WebGrease.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Iesi.Collections.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.AI.Web.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\NHibernate.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.Helpers.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.Mvc.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.Optimization.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.Razor.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.WebPages.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\System.Web.WebPages.Razor.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Antlr3.Runtime.pdb
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\bin\Newtonsoft.Json.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\obj\Debug\Project.SPA.csprojResolveAssemblyReference.cache
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\obj\Debug\Project.SPA.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.SPA\obj\Debug\Project.SPA.pdb

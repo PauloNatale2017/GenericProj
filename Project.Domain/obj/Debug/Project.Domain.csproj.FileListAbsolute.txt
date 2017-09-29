@@ -1,0 +1,12 @@
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\bin\Debug\Project.Domain.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\bin\Debug\Project.Domain.pdb
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\bin\Debug\MongoDB.Bson.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\bin\Debug\MongoDB.Driver.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\bin\Debug\MongoDB.Bson.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\bin\Debug\MongoDB.Driver.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\obj\Debug\Project.Domain.csprojResolveAssemblyReference.cache
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\obj\Debug\Project.Domain.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.Domain\obj\Debug\Project.Domain.pdb

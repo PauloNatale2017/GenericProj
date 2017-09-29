@@ -1,0 +1,61 @@
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\Project.DataAccessLayer.dll.config
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\Project.DataAccessLayer.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\Project.DataAccessLayer.pdb
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\EntityFramework.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\Iesi.Collections.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\MongoDB.Bson.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.Core.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.Legacy.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\MySql.Data.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\NHibernate.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\System.Data.SqlServerCe.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\EntityFramework.xml
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.xml
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\Iesi.Collections.xml
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\MongoDB.Bson.xml
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.xml
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.Core.xml
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.Legacy.xml
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\bin\Debug\NHibernate.xml
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\obj\Debug\Project.DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\obj\Debug\Project.DataAccessLayer.dll
+c:\Users\paulo.natale\documents\visual studio 2015\Projects\Project.SPA\Project.DataAccessLayer\obj\Debug\Project.DataAccessLayer.pdb
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\Project.DataAccessLayer.dll.config
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\Project.DataAccessLayer.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\Project.DataAccessLayer.pdb
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\FluentNHibernate.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\Iesi.Collections.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\MongoDB.Bson.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\NHibernate.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\StructureMap.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\FluentNHibernate.pdb
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\FluentNHibernate.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\Iesi.Collections.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\MongoDB.Bson.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\NHibernate.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\bin\Debug\StructureMap.xml
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\obj\Debug\Project.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\obj\Debug\Project.DataAccessLayer.dll
+C:\Users\paulo.natale\Desktop\Projetos\ProjectGeneric-master\ProjectGeneric-master\Project.DataAccessLayer\obj\Debug\Project.DataAccessLayer.pdb
